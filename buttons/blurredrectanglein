@@ -1,0 +1,21 @@
+<div id="block" class="sqs-block-modelsync sqs-block-button">
+  <div id="block" class="block">
+    <div class="block" data-alignment="center" data-button-size="medium">
+      <a href="" class="sqs-block-button-element--medium sqs-block-button-element5">Learn More
+        
+      </a>
+    </div>
+  </div>
+</div>
+<style> .sqs-block-button-element5 {
+    background: #D46A6A!important;
+  	border: 0px !important;
+    box-shadow: inset 0 0 0 0 #FFAAAA;
+	-webkit-transition: box-shadow 1s!important;
+	-moz-transition: box-shadow 1s!important;
+	transition: box-shadow 1s!important;
+}
+.sqs-block-button-element5:hover {
+    box-shadow: inset 0 0 200px 0 #FFAAAA!important;
+}
+</style>

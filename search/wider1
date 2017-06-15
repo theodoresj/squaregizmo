@@ -1,0 +1,35 @@
+<div class="search">
+  <div class="search">
+    <div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-light" data-source="block" data-preview="false" data-collection=""> 
+      <div class="spinner-wrapper">
+      </div>
+  
+<input type="search1" style="color:white;" class="search-input hover-effect" value="" placeholder="Search">
+
+      <div class="yui3-widget sqs-widget sqs-search-preview">
+        <div id="yui_3_17_2_1_1497554141543_127" class="sqs-search-preview-content">
+        </div>
+      </div>
+    </div>
+</div>
+</div>
+<style>
+  ::-webkit-input-placeholder {
+  color: white;
+}
+  input[type=search1] {
+    background-color: #7C84AE!important;
+    display: block;
+    margin: 0 auto;
+    width: 10px!important; 
+    border-radius: 100px;
+    -webkit-transition: all 0.4s ease-in-out!important;
+    transition: all 0.4s ease-in-out!important;
+}
+
+input[type=search1]:focus {
+  width: 100%!important;
+  box-shadow: 0 0 3px 0 blue!important;
+  
+}
+</style>

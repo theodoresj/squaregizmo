@@ -1,0 +1,27 @@
+<div class="search">
+  <div class="search">
+    <div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-light"  data-source="block" data-preview="false" data-collection="">
+  
+<input type="search3" style="color:white;" class="search-input hover-effect" value="" placeholder="Search" >
+        </div>
+      </div>
+    </div>
+<style>
+  ::-webkit-input-placeholder {
+  color: white;
+}
+  input[type=search3] {
+    background-color: #7C84AE!important;
+    display: block;
+    margin: 0 auto;
+    width: 100%!important;
+    border-radius: 100px;
+    -webkit-transition: all 0.4s ease-in-out!important;
+    transition: all 0.4s ease-in-out!important;
+}
+
+input[type=search3]:hover {
+  box-shadow: 0 0 3px 0 blue!important;
+  }
+
+</style>

@@ -8,6 +8,7 @@
 </div>
 <style> .sqs-block-button-element4 {
     background: #D46A6A!important;
+    border: 0px !important;
     box-shadow: inset 0 0 0 0 #FFAAAA;
 	-webkit-transition: box-shadow 1s!important;
 	-moz-transition: box-shadow 1s!important;

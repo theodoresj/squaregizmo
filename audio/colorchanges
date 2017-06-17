@@ -1,0 +1,14 @@
+<style>
+.player {
+  background: #FFCC66!important;
+  }
+.action{
+  background: #F4B63A!important;
+  }
+.sqs-audio-player {
+   background: #FFCC66!important;
+  }
+.wrapper { 
+  background: #F4B63A!important;
+  }
+</style>

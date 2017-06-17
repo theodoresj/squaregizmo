@@ -1,0 +1,44 @@
+
+<div class="sqs-block quote-block sqs-block-quote">
+  <div class="sqs-block-content1"><figure>
+    <blockquote>
+      <span style="color:purple;">"</span>Quote Text Here<span style="color:purple;">”</span> <div class="arrow-down"></div>
+    </blockquote>
+    <figcaption1 class="source">— Author Here</figcaption1>
+    </figure>
+  </div>
+</div>
+<style> .sqs-block-content1{
+  background-color: #8F4DB3!important;
+  color: white!important;
+  width: 70%!important;
+  display: block;
+  margin: auto;
+  }
+  figcaption1 {
+    padding: 5px;
+    background-color: purple!important;
+    
+  }
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  position: relative;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  margin: auto;
+  
+  border-top: 20px solid purple;
+}
+.arrow-down {
+  animation-name: arrow-down;
+    animation-duration: .5s;
+    animation-iteration-count: infinite;
+}
+@keyframes arrow-down {
+    0%   {top:0px;}
+    100%  {top:0px;}
+    50%  {top:10px;}
+}
+</style>
+  

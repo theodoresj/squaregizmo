@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<div class="sqs-block1 button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_10_1497806636395_3693">
+		<div class="sqs-block-content">
+			<div class="sqs-block-button-container--center" data-alignment="center" data-button-size="medium">
+				<a class="sqs-block-button-element--medium block" href="">Hover Over Me</a>
+				<figcaption>
+					Hover Caption...
+				</figcaption>
+			</div>
+		</div>
+	</div>
+	<style>
+	     .sqs-block1{
+	       padding: 25px 0px 0px 0px;
+	     }
+
+	   figcaption { 
+	     font-family: "arial";
+	    background: rgba(0,0,0,0.75); 
+	    color: white; 
+	    padding: 2px 4px; 
+	    opacity: 0; 
+	    width: 200px;
+	    margin: auto;
+	    text-overflow: hidden;
+	    -webkit-transition: all 0.5s ease;
+	    -moz-transition:    all 0.5s ease;
+	    -o-transition:      all 0.5s ease;
+	   }
+	   .sqs-block1:hover figcaption {
+	    opacity: 1;
+	    
+	   }
+	</style>
+</body>
+</html>

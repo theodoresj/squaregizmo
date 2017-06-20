@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<div class="sqs-block-modelsync sqs-block-button" id="block">
+		<div class="block" id="block">
+			<div class="block" data-alignment="center" data-button-size="medium">
+				<a class="sqs-block-button-element--medium sqs-block-button-element5" href="Destination%20URL%20goes%20here">Learn More</a>
+			</div>
+		</div>
+	</div>
+	<style>
+	.sqs-block-button-element5 {
+	   background: blue!important;
+	   border: 0px !important;
+	   transition: all 1s ease-in-out!important;
+	}
+	.sqs-block-button-element5:hover {
+	   border: 2px solid black!important;
+
+	</style>
+</body>
+</html>

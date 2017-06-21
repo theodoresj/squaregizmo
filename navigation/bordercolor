@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-	<nav class="Header-nav Header-nav--primary">
-		<div class="Header-nav-inner">
-			<a class="Header-nav-item" href="/">Home</a> <span class="Header-nav-item Header-nav-item--folder"><a class="Header-nav-folder-title Header-nav-folder-title--active" data-controller="HeaderNavFolderTouch" data-controllers-bound="HeaderNavFolderTouch" href="/codes-1/">Codes</a> <span class="Header-nav-folder"><a class="Header-nav-folder-item" data-test="template-nav" href="/audio/">Audio</a> <a class="Header-nav-folder-item" data-test="template-nav" href="/buttons/">Buttons</a> <a class="Header-nav-folder-item" data-test="template-nav" href="/custom/">Custom</a> <a class="Header-nav-folder-item" data-test="template-nav" href="/custom-cart/">Custom Cart</a> <a class="Header-nav-folder-item" data-test="template-nav" href="/forms/">Forms</a> <a class="Header-nav-folder-item Header-nav-folder-item--active" data-test="template-nav" href="/navigation/">Navigation</a> <a class="Header-nav-folder-item" data-test="template-nav" href="/quote/">Quote</a> <a class="Header-nav-folder-item" data-test="template-nav" href="/searchcodes/">Search</a> <a class="Header-nav-folder-item" data-test="template-nav" href="/social-links/">Social Links</a></span></span> <a class="Header-nav-item" data-test="template-nav" href="/custom-1/">Custom</a><a class="Header-nav-item" data-test="template-nav" href="/requests/">Requests</a>
-		</div>
-	</nav>
-</body>
-</html>
 <style>
 .Header-nav-inner{
   display: block;
